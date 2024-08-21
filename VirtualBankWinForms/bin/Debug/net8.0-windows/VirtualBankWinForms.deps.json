@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VirtualBankWinForms/1.0.0": {
+        "dependencies": {
+          "ConsoleBank": "1.0.0"
+        },
+        "runtime": {
+          "VirtualBankWinForms.dll": {}
+        }
+      },
+      "ConsoleBank/1.0.0": {
+        "runtime": {
+          "ConsoleBank.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirtualBankWinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
